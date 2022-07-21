@@ -1,4 +1,4 @@
 payload:
+  - DOMAIN-SUFFIX,podcasts.apple.com
   - DOMAIN-KEYWORD,duolingo
   - PROCESS-NAME,aria2c
-  - PROCESS-NAME,Podcasts
